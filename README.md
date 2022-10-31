@@ -18,3 +18,6 @@ CSS
 PHP
 
 ## Getting Started
+
+<img width="468" alt="Capture" src="https://user-images.githubusercontent.com/85502883/199083727-3cf6e0fb-12cd-4d6f-aba1-f73206bd74e2.PNG">
+
