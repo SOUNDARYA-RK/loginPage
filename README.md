@@ -1,8 +1,8 @@
 ### As a user, I want to:
 * Sign up for an account.
 * Sign in and sign out of my account.
-* After signing in, the user name will get displayed with message "WELCOME"
-* Every new user details will get inserted in MySQL database created using pHp MyAdmin
+* After signing in, the user name should get displayed with message "WELCOME"
+* Every new user details should get inserted in MySQL database created using pHp MyAdmin
 
 
 ## Technologies Used
