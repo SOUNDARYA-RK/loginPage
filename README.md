@@ -10,18 +10,6 @@ http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=login_db&table=users
 Login page:
 http://localhost/login/login.php
 
-## Technologies Used
-
-### Backend
-
-MySQL database using pHp MyAdmin
-
-### Frontend
-
-HTML
-CSS
-PHP
-
 ## Getting Started
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/85502883/199163305-00a0553e-5b54-4104-942f-3f8e93fe7c93.png)
