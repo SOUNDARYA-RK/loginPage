@@ -4,6 +4,11 @@
 * After signing in, the user name should get displayed with message "WELCOME"
 * Every new user details should get inserted in MySQL database created using pHp MyAdmin
 
+PHP MyAdmin db created:
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=login_db&table=users
+
+Login page:
+http://localhost/login/login.php
 
 ## Technologies Used
 
